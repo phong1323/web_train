@@ -3,24 +3,14 @@
 Text: Task 6:
 - Tìm hiểu về lỗ hổng File Inclusion, phân loại.
 - Tìm hiểu cách hoạt động của các hàm include, require, include_once, require_once trong PHP.
-- Tìm hiểu về các kĩ thuật bypass file inclusion sau:
-    \+ Null Byte
-    \+ Double Encoding
-    \+ UTF-8 Encoding
-    \+ Path Truncation
-    \+ Filter Bypass
-    \+ Bypass allow_url_include
+- Tìm hiểu về các kĩ thuật bypass file inclusion sau: Null Byte, Double Encoding, UTF-8 Encoding, Path Truncation, Filter Bypass, Bypass allow_url_include.
 - Phân biệt lỗ hổng File Inclusion và Path Traversal.
 - Tìm hiểu cách hoạt động của một số php wrapper trong khai thác file inclusion
 - Tìm nhiều nhất những case LFI2Rce -> demo.
 - Phân biệt Reverse Shell và Bind Shell và sử dụng chúng trong bước cuối sau khi rce thành công.
 - Cách ngăn chặn file inclusion
 - Xây dựng lab tấn công demo cả 2 loại File Inclusion
-- Làm root-me:
-    \+ Directory traversal
-    \+ Local File Inclusion
-    \+ Local File Inclusion - Double encoding
-    \+ Remote File Inclusion
+- Làm root-me: Directory traversal, Local File Inclusion, Local File Inclusion - Double encoding, Remote File Inclusion
 
 DEADLINE: 23h 22/8
 
