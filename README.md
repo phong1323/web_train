@@ -85,5 +85,11 @@ DEADLINE: 23h 7/8
 - Có thể tham khảo nguồn: https://portswigger.net/web-security/ssrf, https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery
 - Tìm hiểu kỹ thuật DNS rebinding
 - Clear lab SSRF portswigger
----
 DEADLINE: 23h 11/9
+---
+
+**[Mở Task 8](Task8/README.md)**
+- Tìm hiểu về SSTI (Khái niệm, nguyên nhân, tác hại + 1 số cách bypass, cách phòng tránh)
+- Giải hết các bài SSTI trên rootme
+DEADLINE:
+23h 21/9
