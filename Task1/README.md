@@ -12,7 +12,7 @@
 
 ![image.png](image.png)
 
-1. Trang đăng nhập 
+2. Trang đăng nhập 
 
 ![image.png](image%201.png)
 
@@ -20,11 +20,11 @@ sau khi đăng nhập thì hiện thông tin cá nhân
 
 ![image.png](image%202.png)
 
-1. Trang đăng ký
+3. Trang đăng ký
 
 ![image.png](image%203.png)
 
-1. Trang tìm kiếm 
+4. Trang tìm kiếm 
 
 ![image.png](image%204.png)
 
@@ -32,11 +32,11 @@ kết quả tìm kiếm
 
 ![image.png](image%205.png)
 
-1. Cơ sở dữ liệu 
+4. Cơ sở dữ liệu 
 
 ![image.png](image%206.png)
 
-II. Quy trình tạo trang web
+# II. Quy trình tạo trang web
 
 Bước 1: Tạo database và bảng users trong XAMPP. Cơ sở dữ liệu này bao gồm id( khóa chính), name, gender, email, address, phone, password.
 
@@ -72,14 +72,14 @@ htdocs/
 
 Chức năng: truy cập trang tìm kiếm, đăng nhâp, đăng ký
 
-1. connect.php
+2. connect.php
     
     [connect.php](connect.php)
     
 
 Kết nối giữa php và database
 
-1. register.php
+3. register.php
     
     [register.php](register.php)
     
@@ -88,34 +88,34 @@ Chức năng: cung cấp giao diện đăng ký
 
 Cho phép người dùng chuyển hướng đến trang chủ
 
-1. login.php
+4. login.php
     
     [login.php](login.php)
     
 
 Chức năng: cung cấp giao diện đăng nhập, đăng nhập xong sẽ hiện thông tin cá nhân, cho phép quay về trang chủ
 
-1. profile.php
+5. profile.php
     
     [profile.php](profile.php)
     
 
 Chức năng: hiển thị thông tin các nhân khi người dùng đăng nhập xong
 
-1. logout.php
+6. logout.php
     
     [logout.php](logout.php)
     
 
 Xử lý đăng xuất, xóa phiên làm việc hiện tại
 
-1. search.php
+7. search.php
 
 Chức năng: cung cấp giao diện tìm kiếm, cho phép quay về trang chủ
 
 [search.php](search.php)
 
-1. style.css
+8. style.css
     
     [style.css](style.css)
     
